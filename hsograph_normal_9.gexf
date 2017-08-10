@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Clara" label="Clara" />
+      <node id="Carlsson" label="Carlsson" />
+      <node id="Fia Löfström" label="Fia Löfström" />
+      <node id="Lotten" label="Lotten" />
+      <node id="Rundqvist" label="Rundqvist" />
+      <node id="Gusten" label="Gusten" />
+      <node id="Norman" label="Norman" />
+      <node id="Backknallarne" label="Backknallarne" />
+      <node id="Hemsöborna" label="Hemsöborna" />
+      <node id="Ida" label="Ida" />
+      <node id="Marie" label="Marie" />
+      <node id="Nee" label="Nee" />
+      <node id="Robert" label="Robert" />
+      <node id="Norström" label="Norström" />
+      <node id="Fredrik" label="Fredrik" />
+      <node id="Anna Eva" label="Anna Eva" />
+      <node id="Jessus" label="Jessus" />
+      <node id="Ängarne" label="Ängarne" />
+      <node id="Skyttarne" label="Skyttarne" />
+      <node id="Joho" label="Joho" />
+      <node id="Gubbarne" label="Gubbarne" />
+      <node id="Åvassan" label="Åvassan" />
+      <node id="Svinnockarn" label="Svinnockarn" />
+      <node id="Fjällångarn" label="Fjällångarn" />
+      <node id="Fiversätraön" label="Fiversätraön" />
+      <node id="Höllu" label="Höllu" />
+      <node id="Asch" label="Asch" />
+      <node id="Jessu" label="Jessu" />
+      <node id="Norsten" label="Norsten" />
+      <node id="Johannes" label="Johannes" />
+      <node id="Hufeland" label="Hufeland" />
+      <node id="Jössus" label="Jössus" />
+      <node id="Karlavagnen" label="Karlavagnen" />
+      <node id="Jösus" label="Jösus" />
+      <node id="Rågholmen" label="Rågholmen" />
+      <node id="Hemsöarne" label="Hemsöarne" />
+      <node id="Herrarne" label="Herrarne" />
+      <node id="Gillöga" label="Gillöga" />
+      <node id="Karlarne" label="Karlarne" />
+      <node id="Jesus Kristus" label="Jesus Kristus" />
+      <node id="flod" label="flod" />
+      <node id="Dalaröbud" label="Dalaröbud" />
+      <node id="Skälarne" label="Skälarne" />
+      <node id="Måsarne" label="Måsarne" />
+      <node id="Kvarnöarne" label="Kvarnöarne" />
+      <node id="Calle" label="Calle" />
+      <node id="Åvassaänkan" label="Åvassaänkan" />
+      <node id="Vettarne" label="Vettarne" />
+      <node id="Hischen" label="Hischen" />
+      <node id="Erik" label="Erik" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Clara" target="Carlsson" weight="190" />
+      <edge id="1" source="Clara" target="Fia Löfström" weight="2" />
+      <edge id="2" source="Clara" target="Lotten" weight="31" />
+      <edge id="3" source="Clara" target="Rundqvist" weight="53" />
+      <edge id="4" source="Clara" target="Gusten" weight="50" />
+      <edge id="5" source="Clara" target="Norman" weight="29" />
+      <edge id="6" source="Clara" target="Backknallarne" weight="2" />
+      <edge id="7" source="Clara" target="Hemsöborna" weight="2" />
+      <edge id="8" source="Clara" target="Ida" weight="31" />
+      <edge id="9" source="Clara" target="Marie" weight="1" />
+      <edge id="10" source="Clara" target="Nee" weight="2" />
+      <edge id="11" source="Clara" target="Robert" weight="3" />
+      <edge id="12" source="Clara" target="Norström" weight="5" />
+      <edge id="13" source="Clara" target="Fredrik" weight="1" />
+      <edge id="14" source="Clara" target="Anna Eva" weight="2" />
+      <edge id="15" source="Clara" target="flod" weight="8" />
+      <edge id="16" source="Clara" target="Calle" weight="1" />
+      <edge id="17" source="Clara" target="Rågholmen" weight="1" />
+      <edge id="18" source="Carlsson" target="Lotten" weight="61" />
+      <edge id="19" source="Carlsson" target="Fia Löfström" weight="5" />
+      <edge id="20" source="Carlsson" target="Gusten" weight="651" />
+      <edge id="21" source="Carlsson" target="Norman" weight="436" />
+      <edge id="22" source="Carlsson" target="Rundqvist" weight="374" />
+      <edge id="23" source="Carlsson" target="Jessus" weight="5" />
+      <edge id="24" source="Carlsson" target="Backknallarne" weight="3" />
+      <edge id="25" source="Carlsson" target="Ängarne" weight="5" />
+      <edge id="26" source="Carlsson" target="Skyttarne" weight="6" />
+      <edge id="27" source="Carlsson" target="Joho" weight="7" />
+      <edge id="28" source="Carlsson" target="Hemsöborna" weight="9" />
+      <edge id="29" source="Carlsson" target="Ida" weight="256" />
+      <edge id="30" source="Carlsson" target="Gubbarne" weight="3" />
+      <edge id="31" source="Carlsson" target="Åvassan" weight="4" />
+      <edge id="32" source="Carlsson" target="Svinnockarn" weight="14" />
+      <edge id="33" source="Carlsson" target="Fjällångarn" weight="6" />
+      <edge id="34" source="Carlsson" target="Marie" weight="7" />
+      <edge id="35" source="Carlsson" target="Fiversätraön" weight="3" />
+      <edge id="36" source="Carlsson" target="Höllu" weight="12" />
+      <edge id="37" source="Carlsson" target="Nee" weight="5" />
+      <edge id="38" source="Carlsson" target="Robert" weight="15" />
+      <edge id="39" source="Carlsson" target="Asch" weight="11" />
+      <edge id="40" source="Carlsson" target="Norström" weight="32" />
+      <edge id="41" source="Carlsson" target="Jessu" weight="3" />
+      <edge id="42" source="Carlsson" target="Norsten" weight="8" />
+      <edge id="43" source="Carlsson" target="Johannes" weight="2" />
+      <edge id="44" source="Carlsson" target="Anna Eva" weight="24" />
+      <edge id="45" source="Carlsson" target="Hufeland" weight="5" />
+      <edge id="46" source="Carlsson" target="Jössus" weight="2" />
+      <edge id="47" source="Carlsson" target="Karlavagnen" weight="3" />
+      <edge id="48" source="Carlsson" target="Jösus" weight="3" />
+      <edge id="49" source="Carlsson" target="Rågholmen" weight="48" />
+      <edge id="50" source="Carlsson" target="Hemsöarne" weight="9" />
+      <edge id="51" source="Carlsson" target="Herrarne" weight="5" />
+      <edge id="52" source="Carlsson" target="Gillöga" weight="7" />
+      <edge id="53" source="Carlsson" target="Karlarne" weight="1" />
+      <edge id="54" source="Carlsson" target="Jesus Kristus" weight="7" />
+      <edge id="55" source="Carlsson" target="flod" weight="81" />
+      <edge id="56" source="Carlsson" target="Calle" weight="3" />
+      <edge id="57" source="Carlsson" target="Dalaröbud" weight="1" />
+      <edge id="58" source="Carlsson" target="Åvassaänkan" weight="2" />
+      <edge id="59" source="Carlsson" target="Hischen" weight="2" />
+      <edge id="60" source="Carlsson" target="Fredrik" weight="2" />
+      <edge id="61" source="Carlsson" target="Erik" weight="5" />
+      <edge id="62" source="Fia Löfström" target="Lotten" weight="2" />
+      <edge id="63" source="Fia Löfström" target="flod" weight="1" />
+      <edge id="64" source="Lotten" target="Rundqvist" weight="7" />
+      <edge id="65" source="Lotten" target="Gusten" weight="11" />
+      <edge id="66" source="Lotten" target="Norman" weight="7" />
+      <edge id="67" source="Lotten" target="Hemsöborna" weight="2" />
+      <edge id="68" source="Lotten" target="Ida" weight="4" />
+      <edge id="69" source="Lotten" target="flod" weight="6" />
+      <edge id="70" source="Lotten" target="Backknallarne" weight="2" />
+      <edge id="71" source="Lotten" target="Åvassan" weight="1" />
+      <edge id="72" source="Lotten" target="Svinnockarn" weight="1" />
+      <edge id="73" source="Lotten" target="Fjällångarn" weight="1" />
+      <edge id="74" source="Lotten" target="Gubbarne" weight="1" />
+      <edge id="75" source="Lotten" target="Robert" weight="1" />
+      <edge id="76" source="Rundqvist" target="flod" weight="29" />
+      <edge id="77" source="Rundqvist" target="Gusten" weight="151" />
+      <edge id="78" source="Rundqvist" target="Norman" weight="130" />
+      <edge id="79" source="Rundqvist" target="Jessus" weight="1" />
+      <edge id="80" source="Rundqvist" target="Calle" weight="3" />
+      <edge id="81" source="Rundqvist" target="Hemsöborna" weight="1" />
+      <edge id="82" source="Rundqvist" target="Ida" weight="21" />
+      <edge id="83" source="Rundqvist" target="Marie" weight="2" />
+      <edge id="84" source="Rundqvist" target="Hemsöarne" weight="4" />
+      <edge id="85" source="Rundqvist" target="Norström" weight="13" />
+      <edge id="86" source="Rundqvist" target="Rågholmen" weight="7" />
+      <edge id="87" source="Rundqvist" target="Backknallarne" weight="1" />
+      <edge id="88" source="Rundqvist" target="Svinnockarn" weight="2" />
+      <edge id="89" source="Rundqvist" target="Fjällångarn" weight="1" />
+      <edge id="90" source="Rundqvist" target="Fiversätraön" weight="1" />
+      <edge id="91" source="Rundqvist" target="Asch" weight="1" />
+      <edge id="92" source="Rundqvist" target="Dalaröbud" weight="1" />
+      <edge id="93" source="Rundqvist" target="Hischen" weight="1" />
+      <edge id="94" source="Rundqvist" target="Hufeland" weight="1" />
+      <edge id="95" source="Rundqvist" target="Herrarne" weight="2" />
+      <edge id="96" source="Rundqvist" target="Gillöga" weight="2" />
+      <edge id="97" source="Rundqvist" target="Jesus Kristus" weight="1" />
+      <edge id="98" source="Gusten" target="flod" weight="39" />
+      <edge id="99" source="Gusten" target="Norman" weight="139" />
+      <edge id="100" source="Gusten" target="Ängarne" weight="8" />
+      <edge id="101" source="Gusten" target="Skyttarne" weight="6" />
+      <edge id="102" source="Gusten" target="Joho" weight="1" />
+      <edge id="103" source="Gusten" target="Hemsöborna" weight="4" />
+      <edge id="104" source="Gusten" target="Ida" weight="23" />
+      <edge id="105" source="Gusten" target="Gubbarne" weight="2" />
+      <edge id="106" source="Gusten" target="Åvassan" weight="2" />
+      <edge id="107" source="Gusten" target="Svinnockarn" weight="3" />
+      <edge id="108" source="Gusten" target="Fjällångarn" weight="3" />
+      <edge id="109" source="Gusten" target="Marie" weight="3" />
+      <edge id="110" source="Gusten" target="Robert" weight="1" />
+      <edge id="111" source="Gusten" target="Norström" weight="25" />
+      <edge id="112" source="Gusten" target="Jessu" weight="2" />
+      <edge id="113" source="Gusten" target="Dalaröbud" weight="5" />
+      <edge id="114" source="Gusten" target="Norsten" weight="12" />
+      <edge id="115" source="Gusten" target="Skälarne" weight="1" />
+      <edge id="116" source="Gusten" target="Måsarne" weight="4" />
+      <edge id="117" source="Gusten" target="Kvarnöarne" weight="5" />
+      <edge id="118" source="Gusten" target="Fredrik" weight="1" />
+      <edge id="119" source="Gusten" target="Hufeland" weight="1" />
+      <edge id="120" source="Gusten" target="Jössus" weight="1" />
+      <edge id="121" source="Gusten" target="Anna Eva" weight="13" />
+      <edge id="122" source="Gusten" target="Höllu" weight="5" />
+      <edge id="123" source="Gusten" target="Gillöga" weight="5" />
+      <edge id="124" source="Gusten" target="Karlarne" weight="1" />
+      <edge id="125" source="Gusten" target="Jesus Kristus" weight="2" />
+      <edge id="126" source="Gusten" target="Fiversätraön" weight="1" />
+      <edge id="127" source="Gusten" target="Asch" weight="1" />
+      <edge id="128" source="Gusten" target="Vettarne" weight="2" />
+      <edge id="129" source="Gusten" target="Johannes" weight="1" />
+      <edge id="130" source="Gusten" target="Karlavagnen" weight="1" />
+      <edge id="131" source="Gusten" target="Rågholmen" weight="7" />
+      <edge id="132" source="Gusten" target="Erik" weight="2" />
+      <edge id="133" source="Norman" target="flod" weight="22" />
+      <edge id="134" source="Norman" target="Calle" weight="2" />
+      <edge id="135" source="Norman" target="Skyttarne" weight="3" />
+      <edge id="136" source="Norman" target="Hemsöborna" weight="1" />
+      <edge id="137" source="Norman" target="Ida" weight="75" />
+      <edge id="138" source="Norman" target="Marie" weight="1" />
+      <edge id="139" source="Norman" target="Höllu" weight="3" />
+      <edge id="140" source="Norman" target="Svinnockarn" weight="5" />
+      <edge id="141" source="Norman" target="Hemsöarne" weight="2" />
+      <edge id="142" source="Norman" target="Norström" weight="7" />
+      <edge id="143" source="Norman" target="Rågholmen" weight="5" />
+      <edge id="144" source="Norman" target="Åvassan" weight="1" />
+      <edge id="145" source="Norman" target="Fjällångarn" weight="1" />
+      <edge id="146" source="Norman" target="Gubbarne" weight="1" />
+      <edge id="147" source="Norman" target="Dalaröbud" weight="1" />
+      <edge id="148" source="Norman" target="Gillöga" weight="2" />
+      <edge id="149" source="Backknallarne" target="flod" weight="1" />
+      <edge id="150" source="Hemsöborna" target="flod" weight="2" />
+      <edge id="151" source="Hemsöborna" target="Norsten" weight="1" />
+      <edge id="152" source="Hemsöborna" target="Rågholmen" weight="1" />
+      <edge id="153" source="Hemsöborna" target="Hemsöarne" weight="1" />
+      <edge id="154" source="Hemsöborna" target="Vettarne" weight="1" />
+      <edge id="155" source="Ida" target="flod" weight="2" />
+      <edge id="156" source="Ida" target="Marie" weight="3" />
+      <edge id="157" source="Ida" target="Fiversätraön" weight="1" />
+      <edge id="158" source="Ida" target="Höllu" weight="3" />
+      <edge id="159" source="Ida" target="Svinnockarn" weight="2" />
+      <edge id="160" source="Ida" target="Asch" weight="4" />
+      <edge id="161" source="Ida" target="Nee" weight="2" />
+      <edge id="162" source="Ida" target="Anna Eva" weight="6" />
+      <edge id="163" source="Norström" target="flod" weight="5" />
+      <edge id="164" source="Norström" target="Åvassan" weight="1" />
+      <edge id="165" source="Norström" target="Åvassaänkan" weight="2" />
+      <edge id="166" source="Norström" target="Johannes" weight="1" />
+      <edge id="167" source="Norström" target="Anna Eva" weight="1" />
+      <edge id="168" source="Norström" target="Dalaröbud" weight="1" />
+      <edge id="169" source="Norström" target="Norsten" weight="1" />
+      <edge id="170" source="Norström" target="Erik" weight="2" />
+      <edge id="171" source="Fredrik" target="Hischen" weight="1" />
+      <edge id="172" source="Anna Eva" target="flod" weight="1" />
+      <edge id="173" source="Anna Eva" target="Johannes" weight="1" />
+      <edge id="174" source="Anna Eva" target="Rågholmen" weight="1" />
+      <edge id="175" source="Gubbarne" target="Åvassan" weight="1" />
+      <edge id="176" source="Gubbarne" target="Svinnockarn" weight="1" />
+      <edge id="177" source="Gubbarne" target="Fjällångarn" weight="1" />
+      <edge id="178" source="Åvassan" target="Svinnockarn" weight="1" />
+      <edge id="179" source="Åvassan" target="Fjällångarn" weight="1" />
+      <edge id="180" source="Åvassan" target="Karlarne" weight="1" />
+      <edge id="181" source="Svinnockarn" target="Fjällångarn" weight="3" />
+      <edge id="182" source="Svinnockarn" target="Fiversätraön" weight="1" />
+      <edge id="183" source="Fjällångarn" target="Fiversätraön" weight="1" />
+      <edge id="184" source="Asch" target="Rågholmen" weight="1" />
+      <edge id="185" source="Johannes" target="flod" weight="1" />
+      <edge id="186" source="Hufeland" target="Jössus" weight="1" />
+      <edge id="187" source="Hufeland" target="Karlavagnen" weight="1" />
+      <edge id="188" source="Jössus" target="Karlavagnen" weight="1" />
+      <edge id="189" source="Rågholmen" target="Hemsöarne" weight="1" />
+      <edge id="190" source="Hemsöarne" target="Herrarne" weight="2" />
+      <edge id="191" source="Gillöga" target="flod" weight="1" />
+      <edge id="192" source="Skälarne" target="Vettarne" weight="2" />
+    </edges>
+  </graph>
+</gexf>

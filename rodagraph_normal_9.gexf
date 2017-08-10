@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Lidingöskogarne" label="Lidingöskogarne" />
+      <node id="Rosendal" label="Rosendal" />
+      <node id="Sjötulln" label="Sjötulln" />
+      <node id="Maria" label="Maria" />
+      <node id="Kristus Rehnhjelm" label="Kristus Rehnhjelm" />
+      <node id="Lundell" label="Lundell" />
+      <node id="Falander" label="Falander" />
+      <node id="Ferdinand Cortez" label="Ferdinand Cortez" />
+      <node id="Klara" label="Klara" />
+      <node id="Isaac" label="Isaac" />
+      <node id="Gråkappan" label="Gråkappan" />
+      <node id="Struve" label="Struve" />
+      <node id="Rödluvan" label="Rödluvan" />
+      <node id="Mose" label="Mose" />
+      <node id="Jon Jonsson" label="Jon Jonsson" />
+      <node id="Carl Jönsson" label="Carl Jönsson" />
+      <node id="Sven Svensson" label="Sven Svensson" />
+      <node id="Per Ilsson" label="Per Ilsson" />
+      <node id="Träskåla" label="Träskåla" />
+      <node id="Olle Montanus" label="Olle Montanus" />
+      <node id="Fichte" label="Fichte" />
+      <node id="Ant" label="Ant" />
+      <node id="Smith" label="Smith" />
+      <node id="Ygberg" label="Ygberg" />
+      <node id="Christian" label="Christian" />
+      <node id="Jenny" label="Jenny" />
+      <node id="Faust" label="Faust" />
+      <node id="Georgine" label="Georgine" />
+      <node id="Lisen" label="Lisen" />
+      <node id="Harry" label="Harry" />
+      <node id="Alexander" label="Alexander" />
+      <node id="Marie Antoinette" label="Marie Antoinette" />
+      <node id="Barnkrubban Betlehem" label="Barnkrubban Betlehem" />
+      <node id="Julius Cæsar" label="Julius Cæsar" />
+      <node id="Antonii" label="Antonii" />
+      <node id="Shakespeare" label="Shakespeare" />
+      <node id="Rabe" label="Rabe" />
+      <node id="Noak" label="Noak" />
+      <node id="Protonotarien" label="Protonotarien" />
+      <node id="Vaffaen" label="Vaffaen" />
+      <node id="Arvid Falk" label="Arvid Falk" />
+      <node id="Fredrik" label="Fredrik" />
+      <node id="A A" label="A A" />
+      <node id="Quasimodo" label="Quasimodo" />
+      <node id="Aristoteles" label="Aristoteles" />
+      <node id="Nicolaus" label="Nicolaus" />
+      <node id="Fritz Levin" label="Fritz Levin" />
+      <node id="Nyström" label="Nyström" />
+      <node id="Orvar Odd" label="Orvar Odd" />
+      <node id="Talis Qualis" label="Talis Qualis" />
+      <node id="Gustaf Sjöholm" label="Gustaf Sjöholm" />
+      <node id="Arndt" label="Arndt" />
+      <node id="Haquin" label="Haquin" />
+      <node id="Triton" label="Triton" />
+      <node id="Ulrika Eleonora" label="Ulrika Eleonora" />
+      <node id="Elisabeth" label="Elisabeth" />
+      <node id="Håkan" label="Håkan" />
+      <node id="Magdalena" label="Magdalena" />
+      <node id="Matt" label="Matt" />
+      <node id="Barntidningarne" label="Barntidningarne" />
+      <node id="Zululu" label="Zululu" />
+      <node id="Napoleon" label="Napoleon" />
+      <node id="M" label="M" />
+      <node id="Karl" label="Karl" />
+      <node id="Revisorskan Homan" label="Revisorskan Homan" />
+      <node id="Eugenie Falk" label="Eugenie Falk" />
+      <node id="Jesus" label="Jesus" />
+      <node id="Albert" label="Albert" />
+      <node id="Jan" label="Jan" />
+      <node id="Sanne" label="Sanne" />
+      <node id="Mälarn" label="Mälarn" />
+      <node id="Georg Stiernhielm" label="Georg Stiernhielm" />
+      <node id="Trälund" label="Trälund" />
+      <node id="Pst" label="Pst" />
+      <node id="Hahahaha" label="Hahahaha" />
+      <node id="Skönström" label="Skönström" />
+      <node id="Lundholm" label="Lundholm" />
+      <node id="Stabat Mater" label="Stabat Mater" />
+      <node id="Daubry" label="Daubry" />
+      <node id="Euklides" label="Euklides" />
+      <node id="Clypeaster" label="Clypeaster" />
+      <node id="Jehu" label="Jehu" />
+      <node id="Beda Pettersson" label="Beda Pettersson" />
+      <node id="Stig" label="Stig" />
+      <node id="Görtz" label="Görtz" />
+      <node id="L" label="L" />
+      <node id="P" label="P" />
+      <node id="Janne" label="Janne" />
+      <node id="Katrina Körgål" label="Katrina Körgål" />
+      <node id="Johannis" label="Johannis" />
+      <node id="Platon" label="Platon" />
+      <node id="Gustaf Sjöblom" label="Gustaf Sjöblom" />
+      <node id="Rec" label="Rec" />
+      <node id="Ibsen" label="Ibsen" />
+      <node id="Ibsennu" label="Ibsennu" />
+      <node id="Gustav Eriksson" label="Gustav Eriksson" />
+      <node id="Kristin" label="Kristin" />
+      <node id="Rauch" label="Rauch" />
+      <node id="Hamlet" label="Hamlet" />
+      <node id="Bore" label="Bore" />
+      <node id="Kyrk" label="Kyrk" />
+      <node id="Tegnér" label="Tegnér" />
+      <node id="Neptun" label="Neptun" />
+      <node id="Joho" label="Joho" />
+      <node id="Uria" label="Uria" />
+      <node id="Ekelund" label="Ekelund" />
+      <node id="Fryxell" label="Fryxell" />
+      <node id="Pierre Clément" label="Pierre Clément" />
+      <node id="Nereus" label="Nereus" />
+      <node id="Bolivar" label="Bolivar" />
+      <node id="Gustav Adolf" label="Gustav Adolf" />
+      <node id="Albrekt" label="Albrekt" />
+      <node id="Larsson" label="Larsson" />
+      <node id="Ansgar" label="Ansgar" />
+      <node id="Gust" label="Gust" />
+      <node id="Anders Andersson" label="Anders Andersson" />
+      <node id="Mefistofeles" label="Mefistofeles" />
+      <node id="Westergren" label="Westergren" />
+      <node id="Aron" label="Aron" />
+      <node id="Simon" label="Simon" />
+      <node id="Bror Sellén" label="Bror Sellén" />
+      <node id="Annæorden" label="Annæorden" />
+      <node id="Polstjärnan" label="Polstjärnan" />
+      <node id="Naaj" label="Naaj" />
+      <node id="Evelyn Homan" label="Evelyn Homan" />
+      <node id="Von Bähr" label="Von Bähr" />
+      <node id="Amanda Libert" label="Amanda Libert" />
+      <node id="Schalin" label="Schalin" />
+      <node id="Anna Feif" label="Anna Feif" />
+      <node id="Calle" label="Calle" />
+      <node id="Emilie Björn" label="Emilie Björn" />
+      <node id="Persson" label="Persson" />
+      <node id="Scheike" label="Scheike" />
+      <node id="Antinous" label="Antinous" />
+      <node id="Horatio" label="Horatio" />
+      <node id="Hjalmar" label="Hjalmar" />
+      <node id="Lear" label="Lear" />
+      <node id="Don Pasquale" label="Don Pasquale" />
+      <node id="Gustav Vasa" label="Gustav Vasa" />
+      <node id="Diego" label="Diego" />
+      <node id="Herodes" label="Herodes" />
+      <node id="Pilatus" label="Pilatus" />
+      <node id="Lutheri" label="Lutheri" />
+      <node id="Ofelia" label="Ofelia" />
+      <node id="Jacquette" label="Jacquette" />
+      <node id="Edvard Stjernström" label="Edvard Stjernström" />
+      <node id="Marjonäs" label="Marjonäs" />
+      <node id="Henri" label="Henri" />
+      <node id="Henrik Borg" label="Henrik Borg" />
+      <node id="Prometheus" label="Prometheus" />
+      <node id="Hulda" label="Hulda" />
+      <node id="Agnes Rundgren" label="Agnes Rundgren" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Lidingöskogarne" target="Rosendal" weight="1" />
+      <edge id="1" source="Lidingöskogarne" target="Sjötulln" weight="1" />
+      <edge id="2" source="Lidingöskogarne" target="Maria" weight="1" />
+      <edge id="3" source="Lidingöskogarne" target="Katrina Körgål" weight="1" />
+      <edge id="4" source="Rosendal" target="Sjötulln" weight="1" />
+      <edge id="5" source="Sjötulln" target="Maria" weight="1" />
+      <edge id="6" source="Sjötulln" target="Katrina Körgål" weight="1" />
+      <edge id="7" source="Maria" target="Kristus Rehnhjelm" weight="2" />
+      <edge id="8" source="Maria" target="Lundell" weight="3" />
+      <edge id="9" source="Maria" target="Falander" weight="3" />
+      <edge id="10" source="Maria" target="Ferdinand Cortez" weight="1" />
+      <edge id="11" source="Maria" target="Klara" weight="2" />
+      <edge id="12" source="Maria" target="Magdalena" weight="1" />
+      <edge id="13" source="Maria" target="Matt" weight="1" />
+      <edge id="14" source="Maria" target="Sanne" weight="1" />
+      <edge id="15" source="Maria" target="Jan" weight="1" />
+      <edge id="16" source="Kristus Rehnhjelm" target="Lundell" weight="28" />
+      <edge id="17" source="Kristus Rehnhjelm" target="Magdalena" weight="2" />
+      <edge id="18" source="Kristus Rehnhjelm" target="Matt" weight="1" />
+      <edge id="19" source="Kristus Rehnhjelm" target="Falander" weight="36" />
+      <edge id="20" source="Kristus Rehnhjelm" target="Ferdinand Cortez" weight="2" />
+      <edge id="21" source="Kristus Rehnhjelm" target="Fichte" weight="3" />
+      <edge id="22" source="Kristus Rehnhjelm" target="Ygberg" weight="9" />
+      <edge id="23" source="Kristus Rehnhjelm" target="Barnkrubban Betlehem" weight="1" />
+      <edge id="24" source="Kristus Rehnhjelm" target="Revisorskan Homan" weight="1" />
+      <edge id="25" source="Kristus Rehnhjelm" target="Triton" weight="1" />
+      <edge id="26" source="Kristus Rehnhjelm" target="Jenny" weight="1" />
+      <edge id="27" source="Kristus Rehnhjelm" target="Kristus Rehnhjelm" weight="1" />
+      <edge id="28" source="Kristus Rehnhjelm" target="Hjalmar" weight="4" />
+      <edge id="29" source="Kristus Rehnhjelm" target="Smith" weight="1" />
+      <edge id="30" source="Kristus Rehnhjelm" target="Beda Pettersson" weight="2" />
+      <edge id="31" source="Kristus Rehnhjelm" target="Sanne" weight="1" />
+      <edge id="32" source="Kristus Rehnhjelm" target="Jan" weight="1" />
+      <edge id="33" source="Lundell" target="Arvid Falk" weight="57" />
+      <edge id="34" source="Lundell" target="Olle Montanus" weight="74" />
+      <edge id="35" source="Lundell" target="Ygberg" weight="72" />
+      <edge id="36" source="Lundell" target="Fichte" weight="3" />
+      <edge id="37" source="Lundell" target="Träskåla" weight="10" />
+      <edge id="38" source="Lundell" target="Ulrika Eleonora" weight="5" />
+      <edge id="39" source="Lundell" target="Smith" weight="8" />
+      <edge id="40" source="Lundell" target="Magdalena" weight="9" />
+      <edge id="41" source="Lundell" target="Per Ilsson" weight="2" />
+      <edge id="42" source="Lundell" target="Gråkappan" weight="1" />
+      <edge id="43" source="Lundell" target="Albert" weight="6" />
+      <edge id="44" source="Lundell" target="Struve" weight="6" />
+      <edge id="45" source="Lundell" target="Falander" weight="6" />
+      <edge id="46" source="Lundell" target="Ferdinand Cortez" weight="3" />
+      <edge id="47" source="Lundell" target="Isaac" weight="1" />
+      <edge id="48" source="Lundell" target="Quasimodo" weight="2" />
+      <edge id="49" source="Lundell" target="Aristoteles" weight="6" />
+      <edge id="50" source="Lundell" target="Fritz Levin" weight="2" />
+      <edge id="51" source="Lundell" target="Triton" weight="1" />
+      <edge id="52" source="Lundell" target="Karl" weight="3" />
+      <edge id="53" source="Lundell" target="Matt" weight="2" />
+      <edge id="54" source="Lundell" target="Nicolaus" weight="1" />
+      <edge id="55" source="Lundell" target="Platon" weight="1" />
+      <edge id="56" source="Lundell" target="Sanne" weight="3" />
+      <edge id="57" source="Lundell" target="Jan" weight="2" />
+      <edge id="58" source="Lundell" target="Henrik Borg" weight="7" />
+      <edge id="59" source="Lundell" target="Marie Antoinette" weight="4" />
+      <edge id="60" source="Lundell" target="Bror Sellén" weight="75" />
+      <edge id="61" source="Falander" target="Arvid Falk" weight="2" />
+      <edge id="62" source="Falander" target="Gustaf Sjöholm" weight="5" />
+      <edge id="63" source="Falander" target="Karl" weight="2" />
+      <edge id="64" source="Falander" target="Magdalena" weight="1" />
+      <edge id="65" source="Falander" target="Matt" weight="1" />
+      <edge id="66" source="Falander" target="Antinous" weight="1" />
+      <edge id="67" source="Falander" target="Jenny" weight="3" />
+      <edge id="68" source="Falander" target="Ferdinand Cortez" weight="3" />
+      <edge id="69" source="Falander" target="Horatio" weight="3" />
+      <edge id="70" source="Falander" target="Pierre Clément" weight="4" />
+      <edge id="71" source="Falander" target="Hjalmar" weight="6" />
+      <edge id="72" source="Falander" target="Don Pasquale" weight="2" />
+      <edge id="73" source="Falander" target="Diego" weight="2" />
+      <edge id="74" source="Falander" target="Sanne" weight="1" />
+      <edge id="75" source="Falander" target="Jan" weight="1" />
+      <edge id="76" source="Falander" target="Ofelia" weight="5" />
+      <edge id="77" source="Falander" target="Jacquette" weight="1" />
+      <edge id="78" source="Falander" target="Bror Sellén" weight="3" />
+      <edge id="79" source="Falander" target="Agnes Rundgren" weight="37" />
+      <edge id="80" source="Ferdinand Cortez" target="Magdalena" weight="1" />
+      <edge id="81" source="Klara" target="Isaac" weight="2" />
+      <edge id="82" source="Klara" target="Gråkappan" weight="1" />
+      <edge id="83" source="Klara" target="Struve" weight="2" />
+      <edge id="84" source="Klara" target="Arvid Falk" weight="3" />
+      <edge id="85" source="Klara" target="Anders Andersson" weight="1" />
+      <edge id="86" source="Klara" target="Marie Antoinette" weight="1" />
+      <edge id="87" source="Isaac" target="Struve" weight="13" />
+      <edge id="88" source="Isaac" target="Julius Cæsar" weight="4" />
+      <edge id="89" source="Isaac" target="Arvid Falk" weight="11" />
+      <edge id="90" source="Isaac" target="Olle Montanus" weight="3" />
+      <edge id="91" source="Isaac" target="Fritz Levin" weight="6" />
+      <edge id="92" source="Isaac" target="Gråkappan" weight="4" />
+      <edge id="93" source="Isaac" target="Triton" weight="6" />
+      <edge id="94" source="Isaac" target="Aron" weight="1" />
+      <edge id="95" source="Isaac" target="Simon" weight="1" />
+      <edge id="96" source="Isaac" target="Smith" weight="1" />
+      <edge id="97" source="Isaac" target="Uria" weight="1" />
+      <edge id="98" source="Isaac" target="Euklides" weight="4" />
+      <edge id="99" source="Isaac" target="Clypeaster" weight="1" />
+      <edge id="100" source="Isaac" target="Jehu" weight="1" />
+      <edge id="101" source="Isaac" target="Jesus" weight="1" />
+      <edge id="102" source="Isaac" target="Bror Sellén" weight="4" />
+      <edge id="103" source="Isaac" target="Rabe" weight="3" />
+      <edge id="104" source="Isaac" target="Henrik Borg" weight="7" />
+      <edge id="105" source="Isaac" target="Marie Antoinette" weight="2" />
+      <edge id="106" source="Isaac" target="Beda Pettersson" weight="1" />
+      <edge id="107" source="Gråkappan" target="Struve" weight="6" />
+      <edge id="108" source="Gråkappan" target="Rödluvan" weight="8" />
+      <edge id="109" source="Gråkappan" target="Arvid Falk" weight="3" />
+      <edge id="110" source="Gråkappan" target="Olle Montanus" weight="2" />
+      <edge id="111" source="Gråkappan" target="Smith" weight="4" />
+      <edge id="112" source="Gråkappan" target="Gustaf Sjöholm" weight="9" />
+      <edge id="113" source="Gråkappan" target="Gustaf Sjöblom" weight="2" />
+      <edge id="114" source="Gråkappan" target="Rec" weight="2" />
+      <edge id="115" source="Gråkappan" target="P" weight="1" />
+      <edge id="116" source="Gråkappan" target="Bore" weight="1" />
+      <edge id="117" source="Gråkappan" target="M" weight="1" />
+      <edge id="118" source="Gråkappan" target="Faust" weight="1" />
+      <edge id="119" source="Gråkappan" target="Skönström" weight="1" />
+      <edge id="120" source="Gråkappan" target="Rabe" weight="1" />
+      <edge id="121" source="Gråkappan" target="Triton" weight="2" />
+      <edge id="122" source="Gråkappan" target="Karl" weight="3" />
+      <edge id="123" source="Gråkappan" target="Bror Sellén" weight="7" />
+      <edge id="124" source="Gråkappan" target="Beda Pettersson" weight="1" />
+      <edge id="125" source="Struve" target="Rödluvan" weight="36" />
+      <edge id="126" source="Struve" target="Mose" weight="2" />
+      <edge id="127" source="Struve" target="Jon Jonsson" weight="1" />
+      <edge id="128" source="Struve" target="Carl Jönsson" weight="7" />
+      <edge id="129" source="Struve" target="Sven Svensson" weight="3" />
+      <edge id="130" source="Struve" target="Per Ilsson" weight="3" />
+      <edge id="131" source="Struve" target="Träskåla" weight="6" />
+      <edge id="132" source="Struve" target="Olle Montanus" weight="12" />
+      <edge id="133" source="Struve" target="Fichte" weight="2" />
+      <edge id="134" source="Struve" target="Ant" weight="1" />
+      <edge id="135" source="Struve" target="Smith" weight="3" />
+      <edge id="136" source="Struve" target="Ygberg" weight="3" />
+      <edge id="137" source="Struve" target="Christian" weight="5" />
+      <edge id="138" source="Struve" target="Jenny" weight="4" />
+      <edge id="139" source="Struve" target="Faust" weight="1" />
+      <edge id="140" source="Struve" target="Georgine" weight="1" />
+      <edge id="141" source="Struve" target="Lisen" weight="1" />
+      <edge id="142" source="Struve" target="Harry" weight="1" />
+      <edge id="143" source="Struve" target="Alexander" weight="1" />
+      <edge id="144" source="Struve" target="Marie Antoinette" weight="1" />
+      <edge id="145" source="Struve" target="Julius Cæsar" weight="2" />
+      <edge id="146" source="Struve" target="Arvid Falk" weight="106" />
+      <edge id="147" source="Struve" target="Fredrik" weight="1" />
+      <edge id="148" source="Struve" target="Fritz Levin" weight="46" />
+      <edge id="149" source="Struve" target="Haquin" weight="2" />
+      <edge id="150" source="Struve" target="Triton" weight="2" />
+      <edge id="151" source="Struve" target="Ulrika Eleonora" weight="3" />
+      <edge id="152" source="Struve" target="Larsson" weight="1" />
+      <edge id="153" source="Struve" target="Anders Andersson" weight="2" />
+      <edge id="154" source="Struve" target="Nicolaus" weight="1" />
+      <edge id="155" source="Struve" target="Platon" weight="1" />
+      <edge id="156" source="Struve" target="Janne" weight="4" />
+      <edge id="157" source="Struve" target="Henrik Borg" weight="48" />
+      <edge id="158" source="Struve" target="Bror Sellén" weight="16" />
+      <edge id="159" source="Struve" target="Beda Pettersson" weight="1" />
+      <edge id="160" source="Rödluvan" target="Jon Jonsson" weight="2" />
+      <edge id="161" source="Rödluvan" target="Carl Jönsson" weight="4" />
+      <edge id="162" source="Rödluvan" target="Olle Montanus" weight="6" />
+      <edge id="163" source="Rödluvan" target="Sven Svensson" weight="8" />
+      <edge id="164" source="Rödluvan" target="Träskåla" weight="10" />
+      <edge id="165" source="Rödluvan" target="Per Ilsson" weight="6" />
+      <edge id="166" source="Rödluvan" target="Faust" weight="1" />
+      <edge id="167" source="Rödluvan" target="Barnkrubban Betlehem" weight="1" />
+      <edge id="168" source="Rödluvan" target="Arvid Falk" weight="26" />
+      <edge id="169" source="Rödluvan" target="Fredrik" weight="1" />
+      <edge id="170" source="Rödluvan" target="Napoleon" weight="1" />
+      <edge id="171" source="Rödluvan" target="Larsson" weight="1" />
+      <edge id="172" source="Rödluvan" target="Anders Andersson" weight="2" />
+      <edge id="173" source="Rödluvan" target="Nicolaus" weight="1" />
+      <edge id="174" source="Rödluvan" target="Skönström" weight="1" />
+      <edge id="175" source="Rödluvan" target="Bror Sellén" weight="7" />
+      <edge id="176" source="Rödluvan" target="Beda Pettersson" weight="1" />
+      <edge id="177" source="Mose" target="Arvid Falk" weight="1" />
+      <edge id="178" source="Mose" target="Haquin" weight="1" />
+      <edge id="179" source="Mose" target="Triton" weight="1" />
+      <edge id="180" source="Mose" target="Ulrika Eleonora" weight="1" />
+      <edge id="181" source="Jon Jonsson" target="Arvid Falk" weight="2" />
+      <edge id="182" source="Carl Jönsson" target="Arvid Falk" weight="3" />
+      <edge id="183" source="Carl Jönsson" target="Larsson" weight="1" />
+      <edge id="184" source="Carl Jönsson" target="Fredrik" weight="1" />
+      <edge id="185" source="Carl Jönsson" target="Stig" weight="1" />
+      <edge id="186" source="Carl Jönsson" target="Ygberg" weight="1" />
+      <edge id="187" source="Carl Jönsson" target="Nyström" weight="3" />
+      <edge id="188" source="Carl Jönsson" target="Fritz Levin" weight="2" />
+      <edge id="189" source="Sven Svensson" target="Arvid Falk" weight="5" />
+      <edge id="190" source="Sven Svensson" target="Träskåla" weight="3" />
+      <edge id="191" source="Sven Svensson" target="Per Ilsson" weight="1" />
+      <edge id="192" source="Sven Svensson" target="M" weight="1" />
+      <edge id="193" source="Per Ilsson" target="Arvid Falk" weight="5" />
+      <edge id="194" source="Per Ilsson" target="Olle Montanus" weight="8" />
+      <edge id="195" source="Per Ilsson" target="Träskåla" weight="9" />
+      <edge id="196" source="Per Ilsson" target="L" weight="1" />
+      <edge id="197" source="Per Ilsson" target="P" weight="1" />
+      <edge id="198" source="Per Ilsson" target="Anders Andersson" weight="1" />
+      <edge id="199" source="Per Ilsson" target="Nicolaus" weight="1" />
+      <edge id="200" source="Per Ilsson" target="Bror Sellén" weight="2" />
+      <edge id="201" source="Träskåla" target="Arvid Falk" weight="9" />
+      <edge id="202" source="Träskåla" target="Olle Montanus" weight="12" />
+      <edge id="203" source="Träskåla" target="Ygberg" weight="3" />
+      <edge id="204" source="Träskåla" target="Fichte" weight="3" />
+      <edge id="205" source="Träskåla" target="L" weight="1" />
+      <edge id="206" source="Träskåla" target="P" weight="1" />
+      <edge id="207" source="Träskåla" target="Ant" weight="1" />
+      <edge id="208" source="Träskåla" target="Platon" weight="1" />
+      <edge id="209" source="Träskåla" target="Gustaf Sjöholm" weight="2" />
+      <edge id="210" source="Träskåla" target="Karl" weight="1" />
+      <edge id="211" source="Träskåla" target="Herodes" weight="1" />
+      <edge id="212" source="Träskåla" target="Pilatus" weight="1" />
+      <edge id="213" source="Träskåla" target="Bror Sellén" weight="5" />
+      <edge id="214" source="Olle Montanus" target="Arvid Falk" weight="15" />
+      <edge id="215" source="Olle Montanus" target="A A" weight="1" />
+      <edge id="216" source="Olle Montanus" target="Ygberg" weight="42" />
+      <edge id="217" source="Olle Montanus" target="Aristoteles" weight="12" />
+      <edge id="218" source="Olle Montanus" target="Olle Montanus" weight="13" />
+      <edge id="219" source="Olle Montanus" target="Ulrika Eleonora" weight="1" />
+      <edge id="220" source="Olle Montanus" target="Smith" weight="1" />
+      <edge id="221" source="Olle Montanus" target="L" weight="3" />
+      <edge id="222" source="Olle Montanus" target="P" weight="3" />
+      <edge id="223" source="Olle Montanus" target="Albert" weight="2" />
+      <edge id="224" source="Olle Montanus" target="Janne" weight="2" />
+      <edge id="225" source="Olle Montanus" target="Katrina Körgål" weight="2" />
+      <edge id="226" source="Olle Montanus" target="Mälarn" weight="1" />
+      <edge id="227" source="Olle Montanus" target="Georg Stiernhielm" weight="1" />
+      <edge id="228" source="Olle Montanus" target="Karl" weight="3" />
+      <edge id="229" source="Olle Montanus" target="Faust" weight="2" />
+      <edge id="230" source="Olle Montanus" target="Stig" weight="1" />
+      <edge id="231" source="Olle Montanus" target="Johannis" weight="2" />
+      <edge id="232" source="Olle Montanus" target="Quasimodo" weight="3" />
+      <edge id="233" source="Olle Montanus" target="Fichte" weight="2" />
+      <edge id="234" source="Olle Montanus" target="Matt" weight="1" />
+      <edge id="235" source="Olle Montanus" target="Platon" weight="1" />
+      <edge id="236" source="Olle Montanus" target="Jan" weight="1" />
+      <edge id="237" source="Olle Montanus" target="Bror Sellén" weight="4" />
+      <edge id="238" source="Fichte" target="Arvid Falk" weight="1" />
+      <edge id="239" source="Fichte" target="Ygberg" weight="8" />
+      <edge id="240" source="Fichte" target="Ant" weight="2" />
+      <edge id="241" source="Smith" target="Arvid Falk" weight="14" />
+      <edge id="242" source="Smith" target="Gustaf Sjöblom" weight="2" />
+      <edge id="243" source="Smith" target="Rec" weight="3" />
+      <edge id="244" source="Smith" target="Gustaf Sjöholm" weight="23" />
+      <edge id="245" source="Smith" target="Orvar Odd" weight="2" />
+      <edge id="246" source="Smith" target="Talis Qualis" weight="2" />
+      <edge id="247" source="Smith" target="Ibsen" weight="4" />
+      <edge id="248" source="Smith" target="Ibsennu" weight="1" />
+      <edge id="249" source="Smith" target="Haquin" weight="3" />
+      <edge id="250" source="Smith" target="Håkan" weight="4" />
+      <edge id="251" source="Smith" target="Gustav Eriksson" weight="2" />
+      <edge id="252" source="Smith" target="Kristin" weight="2" />
+      <edge id="253" source="Smith" target="Triton" weight="2" />
+      <edge id="254" source="Smith" target="Ulrika Eleonora" weight="12" />
+      <edge id="255" source="Smith" target="Ygberg" weight="11" />
+      <edge id="256" source="Smith" target="Magdalena" weight="2" />
+      <edge id="257" source="Smith" target="Rauch" weight="1" />
+      <edge id="258" source="Smith" target="Arndt" weight="1" />
+      <edge id="259" source="Smith" target="Ekelund" weight="3" />
+      <edge id="260" source="Smith" target="Fryxell" weight="2" />
+      <edge id="261" source="Smith" target="Albert" weight="1" />
+      <edge id="262" source="Smith" target="Aron" weight="1" />
+      <edge id="263" source="Smith" target="Simon" weight="1" />
+      <edge id="264" source="Smith" target="Marie Antoinette" weight="2" />
+      <edge id="265" source="Smith" target="Bror Sellén" weight="4" />
+      <edge id="266" source="Ygberg" target="Arvid Falk" weight="91" />
+      <edge id="267" source="Ygberg" target="Quasimodo" weight="5" />
+      <edge id="268" source="Ygberg" target="Aristoteles" weight="12" />
+      <edge id="269" source="Ygberg" target="Ulrika Eleonora" weight="7" />
+      <edge id="270" source="Ygberg" target="Haquin" weight="1" />
+      <edge id="271" source="Ygberg" target="Triton" weight="6" />
+      <edge id="272" source="Ygberg" target="Magdalena" weight="2" />
+      <edge id="273" source="Ygberg" target="Albert" weight="2" />
+      <edge id="274" source="Ygberg" target="Johannis" weight="1" />
+      <edge id="275" source="Ygberg" target="Fritz Levin" weight="2" />
+      <edge id="276" source="Ygberg" target="Gustaf Sjöholm" weight="2" />
+      <edge id="277" source="Ygberg" target="Marjonäs" weight="2" />
+      <edge id="278" source="Ygberg" target="Marie Antoinette" weight="2" />
+      <edge id="279" source="Ygberg" target="Bror Sellén" weight="18" />
+      <edge id="280" source="Christian" target="Arvid Falk" weight="2" />
+      <edge id="281" source="Christian" target="Henrik Borg" weight="2" />
+      <edge id="282" source="Jenny" target="Arvid Falk" weight="1" />
+      <edge id="283" source="Jenny" target="Fritz Levin" weight="1" />
+      <edge id="284" source="Jenny" target="Don Pasquale" weight="2" />
+      <edge id="285" source="Jenny" target="Diego" weight="1" />
+      <edge id="286" source="Jenny" target="Henrik Borg" weight="1" />
+      <edge id="287" source="Faust" target="Arvid Falk" weight="5" />
+      <edge id="288" source="Faust" target="Bror Sellén" weight="1" />
+      <edge id="289" source="Faust" target="Beda Pettersson" weight="1" />
+      <edge id="290" source="Georgine" target="Arvid Falk" weight="2" />
+      <edge id="291" source="Georgine" target="Henrik Borg" weight="1" />
+      <edge id="292" source="Georgine" target="Lisen" weight="2" />
+      <edge id="293" source="Georgine" target="Harry" weight="2" />
+      <edge id="294" source="Georgine" target="Alexander" weight="1" />
+      <edge id="295" source="Georgine" target="Marie Antoinette" weight="1" />
+      <edge id="296" source="Lisen" target="Arvid Falk" weight="2" />
+      <edge id="297" source="Lisen" target="Henrik Borg" weight="1" />
+      <edge id="298" source="Lisen" target="Harry" weight="2" />
+      <edge id="299" source="Lisen" target="Alexander" weight="1" />
+      <edge id="300" source="Lisen" target="Marie Antoinette" weight="1" />
+      <edge id="301" source="Harry" target="Arvid Falk" weight="2" />
+      <edge id="302" source="Harry" target="Henrik Borg" weight="1" />
+      <edge id="303" source="Harry" target="Alexander" weight="1" />
+      <edge id="304" source="Harry" target="Marie Antoinette" weight="1" />
+      <edge id="305" source="Alexander" target="Arvid Falk" weight="2" />
+      <edge id="306" source="Alexander" target="Henrik Borg" weight="1" />
+      <edge id="307" source="Alexander" target="Marie Antoinette" weight="1" />
+      <edge id="308" source="Marie Antoinette" target="Arvid Falk" weight="2" />
+      <edge id="309" source="Marie Antoinette" target="Henrik Borg" weight="1" />
+      <edge id="310" source="Marie Antoinette" target="Ulrika Eleonora" weight="1" />
+      <edge id="311" source="Marie Antoinette" target="Albert" weight="1" />
+      <edge id="312" source="Marie Antoinette" target="Magdalena" weight="1" />
+      <edge id="313" source="Barnkrubban Betlehem" target="Arvid Falk" weight="13" />
+      <edge id="314" source="Barnkrubban Betlehem" target="Fritz Levin" weight="1" />
+      <edge id="315" source="Barnkrubban Betlehem" target="Triton" weight="5" />
+      <edge id="316" source="Barnkrubban Betlehem" target="Karl" weight="1" />
+      <edge id="317" source="Barnkrubban Betlehem" target="Hahahaha" weight="1" />
+      <edge id="318" source="Barnkrubban Betlehem" target="Barnkrubban Betlehem" weight="1" />
+      <edge id="319" source="Barnkrubban Betlehem" target="Revisorskan Homan" weight="1" />
+      <edge id="320" source="Barnkrubban Betlehem" target="Eugenie Falk" weight="2" />
+      <edge id="321" source="Barnkrubban Betlehem" target="Evelyn Homan" weight="2" />
+      <edge id="322" source="Barnkrubban Betlehem" target="Skönström" weight="1" />
+      <edge id="323" source="Julius Cæsar" target="Antonii" weight="1" />
+      <edge id="324" source="Julius Cæsar" target="Shakespeare" weight="1" />
+      <edge id="325" source="Julius Cæsar" target="Rabe" weight="1" />
+      <edge id="326" source="Julius Cæsar" target="Noak" weight="6" />
+      <edge id="327" source="Antonii" target="Shakespeare" weight="1" />
+      <edge id="328" source="Shakespeare" target="Hamlet" weight="1" />
+      <edge id="329" source="Rabe" target="Triton" weight="2" />
+      <edge id="330" source="Rabe" target="Uria" weight="1" />
+      <edge id="331" source="Protonotarien" target="Vaffaen" weight="1" />
+      <edge id="332" source="Arvid Falk" target="Fredrik" weight="6" />
+      <edge id="333" source="Arvid Falk" target="Arvid Falk" weight="8" />
+      <edge id="334" source="Arvid Falk" target="A A" weight="1" />
+      <edge id="335" source="Arvid Falk" target="Quasimodo" weight="1" />
+      <edge id="336" source="Arvid Falk" target="Aristoteles" weight="5" />
+      <edge id="337" source="Arvid Falk" target="Nicolaus" weight="6" />
+      <edge id="338" source="Arvid Falk" target="Fritz Levin" weight="11" />
+      <edge id="339" source="Arvid Falk" target="Nyström" weight="34" />
+      <edge id="340" source="Arvid Falk" target="Orvar Odd" weight="1" />
+      <edge id="341" source="Arvid Falk" target="Talis Qualis" weight="1" />
+      <edge id="342" source="Arvid Falk" target="Gustaf Sjöholm" weight="4" />
+      <edge id="343" source="Arvid Falk" target="Arndt" weight="1" />
+      <edge id="344" source="Arvid Falk" target="Haquin" weight="2" />
+      <edge id="345" source="Arvid Falk" target="Triton" weight="19" />
+      <edge id="346" source="Arvid Falk" target="Ulrika Eleonora" weight="8" />
+      <edge id="347" source="Arvid Falk" target="Elisabeth" weight="1" />
+      <edge id="348" source="Arvid Falk" target="Håkan" weight="3" />
+      <edge id="349" source="Arvid Falk" target="Magdalena" weight="2" />
+      <edge id="350" source="Arvid Falk" target="Matt" weight="3" />
+      <edge id="351" source="Arvid Falk" target="Barntidningarne" weight="2" />
+      <edge id="352" source="Arvid Falk" target="Zululu" weight="1" />
+      <edge id="353" source="Arvid Falk" target="Napoleon" weight="1" />
+      <edge id="354" source="Arvid Falk" target="M" weight="2" />
+      <edge id="355" source="Arvid Falk" target="Karl" weight="8" />
+      <edge id="356" source="Arvid Falk" target="Revisorskan Homan" weight="6" />
+      <edge id="357" source="Arvid Falk" target="Eugenie Falk" weight="1" />
+      <edge id="358" source="Arvid Falk" target="Jesus" weight="1" />
+      <edge id="359" source="Arvid Falk" target="Albert" weight="1" />
+      <edge id="360" source="Arvid Falk" target="Jan" weight="2" />
+      <edge id="361" source="Arvid Falk" target="Sanne" weight="2" />
+      <edge id="362" source="Arvid Falk" target="Mälarn" weight="2" />
+      <edge id="363" source="Arvid Falk" target="Georg Stiernhielm" weight="2" />
+      <edge id="364" source="Arvid Falk" target="Trälund" weight="3" />
+      <edge id="365" source="Arvid Falk" target="Pst" weight="1" />
+      <edge id="366" source="Arvid Falk" target="Hahahaha" weight="1" />
+      <edge id="367" source="Arvid Falk" target="Skönström" weight="1" />
+      <edge id="368" source="Arvid Falk" target="Lundholm" weight="1" />
+      <edge id="369" source="Arvid Falk" target="Stabat Mater" weight="1" />
+      <edge id="370" source="Arvid Falk" target="Daubry" weight="1" />
+      <edge id="371" source="Arvid Falk" target="Euklides" weight="2" />
+      <edge id="372" source="Arvid Falk" target="Clypeaster" weight="1" />
+      <edge id="373" source="Arvid Falk" target="Jehu" weight="1" />
+      <edge id="374" source="Arvid Falk" target="Beda Pettersson" weight="4" />
+      <edge id="375" source="Arvid Falk" target="Stig" weight="1" />
+      <edge id="376" source="Arvid Falk" target="Anders Andersson" weight="4" />
+      <edge id="377" source="Arvid Falk" target="Henri" weight="1" />
+      <edge id="378" source="Arvid Falk" target="Henrik Borg" weight="1" />
+      <edge id="379" source="Arvid Falk" target="Bror Sellén" weight="4" />
+      <edge id="380" source="Fredrik" target="Karl" weight="1" />
+      <edge id="381" source="Fredrik" target="Görtz" weight="1" />
+      <edge id="382" source="Fredrik" target="Ekelund" weight="1" />
+      <edge id="383" source="Fredrik" target="Anders Andersson" weight="1" />
+      <edge id="384" source="Nicolaus" target="Nyström" weight="5" />
+      <edge id="385" source="Nicolaus" target="Karl" weight="1" />
+      <edge id="386" source="Nicolaus" target="Triton" weight="1" />
+      <edge id="387" source="Fritz Levin" target="Nyström" weight="9" />
+      <edge id="388" source="Fritz Levin" target="Magdalena" weight="2" />
+      <edge id="389" source="Fritz Levin" target="Fritz Levin" weight="1" />
+      <edge id="390" source="Fritz Levin" target="Triton" weight="2" />
+      <edge id="391" source="Nyström" target="Karl" weight="1" />
+      <edge id="392" source="Nyström" target="Zululu" weight="1" />
+      <edge id="393" source="Nyström" target="Eugenie Falk" weight="1" />
+      <edge id="394" source="Orvar Odd" target="Gustaf Sjöholm" weight="5" />
+      <edge id="395" source="Orvar Odd" target="Talis Qualis" weight="1" />
+      <edge id="396" source="Talis Qualis" target="Gustaf Sjöholm" weight="5" />
+      <edge id="397" source="Gustaf Sjöholm" target="Gustaf Sjöblom" weight="6" />
+      <edge id="398" source="Gustaf Sjöholm" target="Rec" weight="6" />
+      <edge id="399" source="Gustaf Sjöholm" target="Hamlet" weight="2" />
+      <edge id="400" source="Arndt" target="Haquin" weight="1" />
+      <edge id="401" source="Arndt" target="Håkan" weight="1" />
+      <edge id="402" source="Haquin" target="Håkan" weight="1" />
+      <edge id="403" source="Haquin" target="Gustav Eriksson" weight="1" />
+      <edge id="404" source="Haquin" target="Kristin" weight="1" />
+      <edge id="405" source="Haquin" target="Triton" weight="1" />
+      <edge id="406" source="Haquin" target="Ulrika Eleonora" weight="3" />
+      <edge id="407" source="Triton" target="Ulrika Eleonora" weight="2" />
+      <edge id="408" source="Triton" target="Neptun" weight="2" />
+      <edge id="409" source="Triton" target="Revisorskan Homan" weight="2" />
+      <edge id="410" source="Triton" target="Joho" weight="1" />
+      <edge id="411" source="Triton" target="Uria" weight="1" />
+      <edge id="412" source="Triton" target="Karl" weight="1" />
+      <edge id="413" source="Triton" target="Anders Andersson" weight="1" />
+      <edge id="414" source="Triton" target="Rauch" weight="3" />
+      <edge id="415" source="Triton" target="Eugenie Falk" weight="1" />
+      <edge id="416" source="Triton" target="Evelyn Homan" weight="1" />
+      <edge id="417" source="Triton" target="Hahahaha" weight="2" />
+      <edge id="418" source="Triton" target="Euklides" weight="1" />
+      <edge id="419" source="Triton" target="Henrik Borg" weight="1" />
+      <edge id="420" source="Ulrika Eleonora" target="Elisabeth" weight="3" />
+      <edge id="421" source="Ulrika Eleonora" target="Håkan" weight="1" />
+      <edge id="422" source="Ulrika Eleonora" target="Ekelund" weight="4" />
+      <edge id="423" source="Ulrika Eleonora" target="Fryxell" weight="3" />
+      <edge id="424" source="Ulrika Eleonora" target="Bror Sellén" weight="4" />
+      <edge id="425" source="Håkan" target="Gustav Eriksson" weight="1" />
+      <edge id="426" source="Håkan" target="Kristin" weight="1" />
+      <edge id="427" source="Magdalena" target="Karl" weight="1" />
+      <edge id="428" source="Magdalena" target="Albert" weight="2" />
+      <edge id="429" source="Magdalena" target="Bror Sellén" weight="3" />
+      <edge id="430" source="Matt" target="Jan" weight="1" />
+      <edge id="431" source="Matt" target="Sanne" weight="1" />
+      <edge id="432" source="Matt" target="Barntidningarne" weight="1" />
+      <edge id="433" source="Matt" target="Katrina Körgål" weight="1" />
+      <edge id="434" source="Zululu" target="Jesus" weight="1" />
+      <edge id="435" source="M" target="P" weight="2" />
+      <edge id="436" source="M" target="Gustav Adolf" weight="1" />
+      <edge id="437" source="M" target="Bore" weight="1" />
+      <edge id="438" source="M" target="Bror Sellén" weight="1" />
+      <edge id="439" source="Karl" target="Gustav Eriksson" weight="1" />
+      <edge id="440" source="Karl" target="Ekelund" weight="1" />
+      <edge id="441" source="Karl" target="Görtz" weight="1" />
+      <edge id="442" source="Karl" target="Albert" weight="1" />
+      <edge id="443" source="Karl" target="Revisorskan Homan" weight="1" />
+      <edge id="444" source="Karl" target="Pierre Clément" weight="1" />
+      <edge id="445" source="Karl" target="Tegnér" weight="1" />
+      <edge id="446" source="Karl" target="Georg Stiernhielm" weight="3" />
+      <edge id="447" source="Karl" target="Edvard Stjernström" weight="2" />
+      <edge id="448" source="Karl" target="Bror Sellén" weight="4" />
+      <edge id="449" source="Revisorskan Homan" target="Eugenie Falk" weight="1" />
+      <edge id="450" source="Revisorskan Homan" target="Evelyn Homan" weight="1" />
+      <edge id="451" source="Eugenie Falk" target="Naaj" weight="1" />
+      <edge id="452" source="Eugenie Falk" target="Evelyn Homan" weight="1" />
+      <edge id="453" source="Eugenie Falk" target="Von Bähr" weight="2" />
+      <edge id="454" source="Jesus" target="Albert" weight="1" />
+      <edge id="455" source="Jesus" target="Albrekt" weight="1" />
+      <edge id="456" source="Jesus" target="Naaj" weight="1" />
+      <edge id="457" source="Jesus" target="Henrik Borg" weight="1" />
+      <edge id="458" source="Albert" target="Bror Sellén" weight="1" />
+      <edge id="459" source="Jan" target="Sanne" weight="1" />
+      <edge id="460" source="Jan" target="Katrina Körgål" weight="1" />
+      <edge id="461" source="Sanne" target="Lutheri" weight="1" />
+      <edge id="462" source="Sanne" target="Katrina Körgål" weight="1" />
+      <edge id="463" source="Mälarn" target="Henrik Borg" weight="2" />
+      <edge id="464" source="Mälarn" target="Bror Sellén" weight="1" />
+      <edge id="465" source="Georg Stiernhielm" target="Edvard Stjernström" weight="1" />
+      <edge id="466" source="Lundholm" target="Daubry" weight="1" />
+      <edge id="467" source="Lundholm" target="Stabat Mater" weight="1" />
+      <edge id="468" source="Stabat Mater" target="Daubry" weight="2" />
+      <edge id="469" source="Clypeaster" target="Hulda" weight="1" />
+      <edge id="470" source="Beda Pettersson" target="Agnes Rundgren" weight="1" />
+      <edge id="471" source="Stig" target="Bror Sellén" weight="3" />
+      <edge id="472" source="L" target="P" weight="1" />
+      <edge id="473" source="P" target="Bore" weight="1" />
+      <edge id="474" source="P" target="Gustav Adolf" weight="1" />
+      <edge id="475" source="P" target="Bror Sellén" weight="2" />
+      <edge id="476" source="Janne" target="Katrina Körgål" weight="2" />
+      <edge id="477" source="Johannis" target="Bror Sellén" weight="2" />
+      <edge id="478" source="Gustaf Sjöblom" target="Rec" weight="1" />
+      <edge id="479" source="Ibsen" target="Ibsennu" weight="4" />
+      <edge id="480" source="Gustav Eriksson" target="Kyrk" weight="1" />
+      <edge id="481" source="Gustav Eriksson" target="Tegnér" weight="1" />
+      <edge id="482" source="Gustav Eriksson" target="Kristin" weight="1" />
+      <edge id="483" source="Hamlet" target="Lear" weight="1" />
+      <edge id="484" source="Bore" target="Gustav Adolf" weight="2" />
+      <edge id="485" source="Bore" target="Bror Sellén" weight="1" />
+      <edge id="486" source="Kyrk" target="Ansgar" weight="2" />
+      <edge id="487" source="Kyrk" target="Gust" weight="2" />
+      <edge id="488" source="Ekelund" target="Fryxell" weight="1" />
+      <edge id="489" source="Ekelund" target="Nereus" weight="2" />
+      <edge id="490" source="Pierre Clément" target="Agnes Rundgren" weight="8" />
+      <edge id="491" source="Nereus" target="Bolivar" weight="3" />
+      <edge id="492" source="Gustav Adolf" target="Bror Sellén" weight="1" />
+      <edge id="493" source="Mefistofeles" target="Westergren" weight="1" />
+      <edge id="494" source="Aron" target="Simon" weight="1" />
+      <edge id="495" source="Annæorden" target="Polstjärnan" weight="1" />
+      <edge id="496" source="Evelyn Homan" target="Von Bähr" weight="1" />
+      <edge id="497" source="Amanda Libert" target="Schalin" weight="1" />
+      <edge id="498" source="Amanda Libert" target="Anna Feif" weight="2" />
+      <edge id="499" source="Amanda Libert" target="Calle" weight="1" />
+      <edge id="500" source="Amanda Libert" target="Emilie Björn" weight="2" />
+      <edge id="501" source="Amanda Libert" target="Persson" weight="1" />
+      <edge id="502" source="Amanda Libert" target="Scheike" weight="1" />
+      <edge id="503" source="Schalin" target="Anna Feif" weight="1" />
+      <edge id="504" source="Schalin" target="Calle" weight="2" />
+      <edge id="505" source="Schalin" target="Emilie Björn" weight="1" />
+      <edge id="506" source="Schalin" target="Persson" weight="1" />
+      <edge id="507" source="Schalin" target="Scheike" weight="1" />
+      <edge id="508" source="Anna Feif" target="Calle" weight="1" />
+      <edge id="509" source="Anna Feif" target="Emilie Björn" weight="2" />
+      <edge id="510" source="Anna Feif" target="Persson" weight="1" />
+      <edge id="511" source="Anna Feif" target="Scheike" weight="1" />
+      <edge id="512" source="Calle" target="Emilie Björn" weight="1" />
+      <edge id="513" source="Calle" target="Persson" weight="1" />
+      <edge id="514" source="Calle" target="Scheike" weight="1" />
+      <edge id="515" source="Emilie Björn" target="Persson" weight="1" />
+      <edge id="516" source="Emilie Björn" target="Scheike" weight="1" />
+      <edge id="517" source="Persson" target="Scheike" weight="2" />
+      <edge id="518" source="Horatio" target="Ofelia" weight="3" />
+      <edge id="519" source="Horatio" target="Jacquette" weight="1" />
+      <edge id="520" source="Horatio" target="Agnes Rundgren" weight="2" />
+      <edge id="521" source="Hjalmar" target="Agnes Rundgren" weight="2" />
+      <edge id="522" source="Don Pasquale" target="Gustav Vasa" weight="1" />
+      <edge id="523" source="Herodes" target="Pilatus" weight="1" />
+      <edge id="524" source="Ofelia" target="Jacquette" weight="3" />
+      <edge id="525" source="Ofelia" target="Agnes Rundgren" weight="1" />
+      <edge id="526" source="Henrik Borg" target="Prometheus" weight="1" />
+    </edges>
+  </graph>
+</gexf>
